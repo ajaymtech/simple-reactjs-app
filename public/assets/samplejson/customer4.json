@@ -1,0 +1,12 @@
+{
+	"id": 4,
+	"name": "Ajay",
+	"email": "Akau@test.com",
+	"phone": "1112223334",
+	"city": "Noida",
+	"state": "Uttar Pradesh",
+	"country": "India",
+	"organization": "Company 3",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Lots of Products in general"
+}
